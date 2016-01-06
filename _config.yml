@@ -1,0 +1,28 @@
+name: pb
+favicon: null
+layout_spectrum: 0.8931405686307698
+typography_spectrum: 0.20842294278554618
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7040298543870449
+  lightness: 0.7118480314966291
+  saturation: 0.6078373596537858
+  rhythmicContrast: 0.1466485313139856
+purpose: []
