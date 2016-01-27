@@ -2,6 +2,7 @@ name: pb
 favicon: null
 layout_spectrum: 0.82931
 typography_spectrum: 0.2142
+title: 'My site title goes here!'
 cta:
   domain: null
   bucket: null
